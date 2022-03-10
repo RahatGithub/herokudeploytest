@@ -1,0 +1,17 @@
+body{
+    background-color: gainsboro;
+}
+
+.header-section{
+    background-color: indianred;
+    margin: 40px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
